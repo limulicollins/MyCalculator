@@ -18,11 +18,15 @@
 
 - Python 3.7+
 - PyQt5
-- pip install PyQt5
 
-# ▶️ Running the App
-- Clone or download this repository, then run:
-- python3 mycalculator.py
+# Download and Install
+
+- Click the link https://github.com/limulicollins/MyCalculator/releases/tag/v1.0.0
+- Download mycalculator.deb file
+- Open your terminal and run:
+    - cd ~/Downloads
+    - sudo dpkg -i mycalculator.deb
+    - mycalculator/ or search for "My Calculator" in your app launcher
 
 # 🧠 Keyboard Shortcuts
 
