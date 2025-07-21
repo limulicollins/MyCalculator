@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=My Calculator
+Comment=Scientific Calculator in PyQt5
+Exec=mycalculator
+Icon=mycalculator
+Terminal=false
+Type=Application
+Categories=Utility;
