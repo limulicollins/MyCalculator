@@ -4,15 +4,15 @@
 
 # 🚀 Features
 
-- ✅ Basic arithmetic** (`+`, `-`, `*`, `/`, `%`, `**`)
-- ✅ Advanced math**: `sqrt`, `log`, `ln`, `exp`, `abs`
-- ✅ Trigonometric functions**: `sin`, `cos`, `tan`, and their inverses
-- ✅ Degrees/Radians toggle** for angle inputs
-- ✅ Keyboard input support**
-- ✅ Calculation history panel**
-- ✅ Multiple modes** (basic/scientific)
-- ✅ Responsive GUI layout** (resizable window)
-- ✅ Safe expression evaluation** using Python's `ast` module (no `eval`)
+- ✅ Basic arithmetic (`+`, `-`, `*`, `/`, `%`, `**`)
+- ✅ Advanced math: `sqrt`, `log`, `ln`, `exp`, `abs`
+- ✅ Trigonometric functions: `sin`, `cos`, `tan`, and their inverses
+- ✅ Degrees/Radians toggle for angle inputs
+- ✅ Keyboard input support
+- ✅ Calculation history panel
+- ✅ Multiple modes (basic/scientific)
+- ✅ Responsive GUI layout (resizable window)
+- ✅ Safe expression evaluation using Python's `ast` module (no `eval`)
 
 # 💻 Requirements
 
